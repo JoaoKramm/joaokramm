@@ -1,7 +1,7 @@
 ### Olá 👋
 
 - 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Costumo trabalhar com banco de dados processos 
+- 🌱 Costumo trabalhar com banco de dados e processos 
 - 🤔 Procuro sempre estar aprendendo
 - 💬 Contato: krammjoao@gmail.com
 
