@@ -1,7 +1,7 @@
 ### Olá 👋
 
 - 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Costumo programar para Front-end
+- 🌱 Costumo trabalhar com banco de dados processos 
 - 🤔 Procuro sempre estar aprendendo
 - 💬 Contato: krammjoao@gmail.com
 
